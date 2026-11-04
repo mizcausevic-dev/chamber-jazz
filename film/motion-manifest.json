@@ -1,0 +1,26 @@
+{
+  "title": "Chamber Jazz",
+  "study": "cj01",
+  "bpm": 104,
+  "source_audio": "preview/chamber-jazz-simple-synth-preview.mp3",
+  "source_audio_sha256": "0b30bbf9dd1efb41150ea1f056bc72fa0146e4537474c9c9111d150e4b92f090",
+  "source_midi": "midi/cj01-four-chairs/cj01-four-chairs-combined.mid",
+  "source_midi_sha256": "ee5049f463c68ace0635713acd940033afd9f14ea90144fe9db0dadf089217a8",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "d19f539ba0cb9333cf41b679acbc3b3d6a39858ef6c5a5595f8dfdb0de78d6a4",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "0742f69ddaa175db3a3eafdba967b26a96e42bf7c39c2f5263bfbf395bef99dd",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "03a3620eaa8d82857ce0d88a7ecb87d8a10a43fbe8d7b1d3469e1482ae703eea",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
