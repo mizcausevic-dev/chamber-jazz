@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+cj01,Four Chairs,pack-local equal-tempered pitch collection,D,104,4/4,480,32,61440,midi/cj01-four-chairs/cj01-four-chairs-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cj02,Paper Reed,pack-local equal-tempered pitch collection,F,104,4/4,480,32,61440,midi/cj02-paper-reed/cj02-paper-reed-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cj03,Answer Line,pack-local equal-tempered pitch collection,G#,104,4/4,480,32,61440,midi/cj03-answer-line/cj03-answer-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cj04,Room Return,pack-local equal-tempered pitch collection,D#,104,4/4,480,32,61440,midi/cj04-room-return/cj04-room-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
