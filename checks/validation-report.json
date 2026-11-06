@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:39.338959+00:00",
+  "run_time_utc": "2026-11-06T18:10:57.740698+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -14,8 +14,8 @@
     },
     {
       "path": "midi/cj01-four-chairs/cj01-four-chairs-combined.mid",
-      "bytes": 8395,
-      "sha256": "ee5049f463c68ace0635713acd940033afd9f14ea90144fe9db0dadf089217a8",
+      "bytes": 7704,
+      "sha256": "9734c1da5540f1ddd0dbd05fb5d6af9a818ef07a348aaee3af3efc926d5bfd85",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/cj01-four-chairs/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "a7c99c30b766ca3c1bd7d60388f22c9e076c92f87f3e05f73f85f8c181e1cd6e",
+      "bytes": 942,
+      "sha256": "9f969ca71a24ba819a4cdff30fbe03bcc09029ea0896ba5b0c51be117cf89473",
       "errors": []
     },
     {
@@ -56,8 +56,8 @@
     },
     {
       "path": "midi/cj02-paper-reed/cj02-paper-reed-combined.mid",
-      "bytes": 8394,
-      "sha256": "250bf945c13ff8d1670d4408adea86acf452a28348cbfcb0cbb4a02f26f75f63",
+      "bytes": 7704,
+      "sha256": "ecffd6edd0a139a0cbd01925d52d846b6e0c750591c5bf658ba2064189a2b233",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/cj02-paper-reed/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "6828e2c7dfb968b29a3e3980bde934e6ca0c0077bea45e790e63715f9fd95224",
+      "bytes": 942,
+      "sha256": "9102c4ac27dab3d78ee12bcb3aea9d8f368900fc69b5de7a06929553d38118ae",
       "errors": []
     },
     {
@@ -98,8 +98,8 @@
     },
     {
       "path": "midi/cj03-answer-line/cj03-answer-line-combined.mid",
-      "bytes": 8394,
-      "sha256": "0a9b6dfeef68c30a960a2521b3912fc34e7685473cef453268f010d5d0c15be6",
+      "bytes": 7703,
+      "sha256": "9f9761f4b523bf6c80c859de0cb2d3ebffa6dd8ee265e77f56aeaa9f46f59d72",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/cj03-answer-line/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "42ed473a4253eeb2454f0ed921675759bdb4ca05af6a525b5d2a668a8c1a83dc",
+      "bytes": 941,
+      "sha256": "aaffa15f794edffac73d71a7694423ffd6a099d94efa8df581350c9fd4080a3e",
       "errors": []
     },
     {
@@ -140,8 +140,8 @@
     },
     {
       "path": "midi/cj04-room-return/cj04-room-return-combined.mid",
-      "bytes": 8395,
-      "sha256": "df1cb73dac9d4688842a430da7fb798dcd227180406cb229cf4fd52be0f21a0f",
+      "bytes": 7704,
+      "sha256": "1f28cec983e2bee6c767b94789be7731ca0028746246849d9204ddc0aab97636",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/cj04-room-return/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "ccde891e29041c27d097cf8b941b29314084fde8e60616be6be79b39413bec2a",
+      "bytes": 942,
+      "sha256": "a82f49c3ef13289d48c845abecdd49e3302a919711cde0a5985c340fff2c51cb",
       "errors": []
     },
     {

@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/chamber-jazz-simple-synth-preview.mp3",
-  "preview_sha256": "0b30bbf9dd1efb41150ea1f056bc72fa0146e4537474c9c9111d150e4b92f090",
+  "preview_sha256": "e5038e1f9579fd3d53d159576ad59810afd80be89d20dc015fb5a9890e9b50ce",
   "source_midi_path": "midi/cj01-four-chairs/cj01-four-chairs-combined.mid",
-  "source_midi_sha256": "ee5049f463c68ace0635713acd940033afd9f14ea90144fe9db0dadf089217a8",
+  "source_midi_sha256": "9734c1da5540f1ddd0dbd05fb5d6af9a818ef07a348aaee3af3efc926d5bfd85",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 73.846
   },
   "measurement": {
-    "sample_peak": 0.180768,
+    "sample_peak": 0.15881,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
