@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/chamber-jazz-midi.zip",
-      "bytes": 33298,
-      "sha256": "6ecc1bf541aadacaf4c68fbd6b4dc13f4d9cf23cbbbd7fad5fca5a271f81ed0a"
+      "bytes": 35827,
+      "sha256": "5a28cad822306e2523519b2c06f7b4a8e4527e124d874e1789b62d72f8cc00b8"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10203,
-      "sha256": "53e8c62d0c132bd5afd223dfbdea24c678961be5eb66569f630218af727d62e9"
+      "bytes": 10393,
+      "sha256": "3de2873dd56fd37d011882c21e27fe0c6713806f9d920a99864210c1db6d6b00"
     },
     {
       "path": "midi/cj01-four-chairs/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "2ff3e60f11d5215bcb5cfbd0adb429adf3079b17d40ee8a03c97b6c43080a12a"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 783,
       "sha256": "faa144596aa4b63bb72cfb2f6e76ac84bffd63fbe97bf27b91d5a8167c1ca31d"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3361,
-      "sha256": "4acfaea8ac5a24ab97d66b5213e856b847fd15646c9accd061884f52173b7439"
+      "bytes": 3476,
+      "sha256": "a9aa7ff035db961d84e3fc7c1049cf36583b73f4128bea4b3ad4d9dc88adc8f9"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
